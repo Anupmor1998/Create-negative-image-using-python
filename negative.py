@@ -1,3 +1,4 @@
+//you can create anye images negative images
 '''Note:Before running this code please check that your python compiler has image module installed and if you want to test it on online compiler use trinket.io'''
 #This is doing negative of an image
 import image
